@@ -1,5 +1,5 @@
-# Endless Sky Flamethrower Turret
-A plugin for [Endless Sky][endless-sky] which adds a turret variant of the flamethrower.
+# Endless Sky Korath Automation Upgrade
+A plugin for [Endless Sky][endless-sky] which adds a new Korath Warship after the end of the Korath/Wanderer Co-Op Mission
 
 ![image][image]
 

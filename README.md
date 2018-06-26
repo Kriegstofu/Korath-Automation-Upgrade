@@ -6,7 +6,7 @@ A plugin for [Endless Sky][endless-sky] which adds a new Korath Warship after th
 The flamethrower turret is unlocked as a part of the Free Worlds storyline.
 
 [endless-sky]: https://github.com/endless-sky/endless-sky
-[image]: images/outfit/flamethrower%20turret@2x.png
+[image]: images/MODPIC.jpg
 
 ## Installation
 You must create a "plugins" folder in one of two places, depending on your operating system:

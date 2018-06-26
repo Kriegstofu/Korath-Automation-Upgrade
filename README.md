@@ -3,8 +3,8 @@ A plugin for [Endless Sky][endless-sky] which adds a new Korath Warship after th
 
 ![image][image]
 
-Easier to capture than a Worldship, this 2.3 Tier Ship is obtainable after aiding the Wanderer/Korath in disabling the Kor Automata
-Jumps into Systems like a regular Korath Raider. If you do the Remnant Storyline after the Wanderer one, you will have an extra challenge with a few of these monstrosities
+Easier to capture than a Worldship, this 2.3 Tier Ship is obtainable after aiding the Wanderer/Korath in disabling the Kor Automata.
+It does not replace the Korath Raider but rather complements it. If you do the Remnant Storyline after the Wanderer one, you will have an extra challenge with a few of these monstrosities. This Mod adds some challenge after beating the Automata out of Kor Efreti space
 
 [endless-sky]: https://github.com/endless-sky/endless-sky
 [image]: MODPIC.jpg

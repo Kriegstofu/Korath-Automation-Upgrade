@@ -1,16 +1,14 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: endless-sky-Korath-Automation-Upgrade
-Made by Kriegstofu
-Cloned this from Nick Barry
-Copyright: Nick Barry (github.com/itsnickbarry)
-Source: https://github.com/ItsNickBarry/endless-sky-flamethrower-turret
+Copyright: Kriegstofu (github.com/Kriegstofu)
+Source: https://github.com/Kriegstofu/Korath-Automation-Upgrade
 
 Files: *
-Copyright: Nick Barry (github.com/itsnickbarry)
+Copyright: Kriegstofu (github.com/Kriegstofu)
 License: GPL-3+
 
 Files: images/*
-Copyright: Nick Barry (github.com/itsnickbarry)
+Copyright: Kriegstofu (github.com/Kriegstofu)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser <mzahniser@gmail.com>
 

@@ -3,7 +3,8 @@ A plugin for [Endless Sky][endless-sky] which adds a new Korath Warship after th
 
 ![image][image]
 
-The flamethrower turret is unlocked as a part of the Free Worlds storyline.
+Easier to capture than a Worldship, this 2.3 Tier Ship is obtainable after aiding the Wanderer/Korath in disabling the Kor Automata
+Jumps into Systems like a regular Korath Raider. If you do the Remnant Storyline after the Wanderer one, you will have an extra challenge with a few of these monstrosities
 
 [endless-sky]: https://github.com/endless-sky/endless-sky
 [image]: MODPIC.jpg

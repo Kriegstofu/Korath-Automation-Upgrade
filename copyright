@@ -1,6 +1,8 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: endless-sky-flamethrower-turret
-Upstream-Contact: Nick Barry <itsnickbarry@protonmail.ch>
+Upstream-Name: endless-sky-Korath-Automation-Upgrade
+Made by Kriegstofu
+Cloned this from Nick Barry
+Copyright: Nick Barry (github.com/itsnickbarry)
 Source: https://github.com/ItsNickBarry/endless-sky-flamethrower-turret
 
 Files: *
